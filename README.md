@@ -1,27 +1,27 @@
-Design of a Standard Calculator
-AIM:
+# Design of a Standard Calculator
+# AIM:
 To design a web application for a standard calculator.
 
-DESIGN STEPS:
-Step 1:
+## DESIGN STEPS:
+### Step 1:
 Clone the github repository and create Django admin interface.
 
-Step 2:
+### Step 2:
 Change settings.py file to allow request from all hosts.
 
-Step 3:
+### Step 3:
 Use CSS for creating attractive colors.
 
-Step 4:
+### Step 4:
 Write JavaScript program for implementing five different operations.
 
-Step 5:
+### Step 5:
 Validate the HTML and CSS code.
 
-Step 6:
+### Step 6:
 Publish the website in the given URL.
 
-PROGRAM :
+# PROGRAM :
 calc.html
 <!DOCTYPE html>
 <html lang="en">
@@ -147,9 +147,9 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
-OUTPUT:
+# OUTPUT:
 ![image](https://github.com/thunderantony/standard-calculator/assets/149364638/1072caa4-e446-4acb-91c8-c1b949dcdb3a)
 
 
-Result:
+# Result:
 The program for designing a simple calculator using JavaScript is executed successfully.
